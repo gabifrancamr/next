@@ -17,7 +17,7 @@ export default async function Home() {
           className="group-hover:scale-105 transition-transform duration-500"
         />
 
-        <div className="absolute bottom-12 md:bottom-28 right-21 h-12 flex items-center gap-2 max-width-[280px] rounded-full border-2 border-zinc-500 bg-black/60 p-1 pl-5">
+        <div className="absolute bottom-12 md:bottom-28 right-21 h-12 flex items-center justify-between gap-2 md:min-w-[240px] max-w-[280px] rounded-full border-2 border-zinc-500 bg-black/60 p-1 pl-5">
           <span className="text-sm truncate">Moletom never stop learning</span>
           <span className="flex h-full items-center justify-center rounded-full bg-violet-500 px-4 font-semibold">
             R$129
@@ -38,7 +38,7 @@ export default async function Home() {
           className="group-hover:scale-105 transition-transform duration-500"
         />
 
-        <div className="absolute bottom-4 md:bottom-8 right-15 h-8 md:h-12 flex items-center gap-2 max-width-[50px] md:max-width-[280px] rounded-full border-2 border-zinc-500 bg-black/60 p-1 pl-1 md:pl-5">
+        <div className="absolute bottom-4 md:bottom-8 right-15 h-8 md:h-12 flex items-center justify-between gap-2 min-w-[180px] md:min-w-[240px] md:max-w-[280px] rounded-full border-2 border-zinc-500 bg-black/60 p-1 pl-1 md:pl-5">
           <span className="text-xs md:text-sm truncate">Moletom Java</span>
           <span className="flex h-full items-center justify-center rounded-full bg-violet-500 px-2 md:px-4 text-xs md:text-base font-semibold">
             R$129
@@ -59,7 +59,7 @@ export default async function Home() {
           className="group-hover:scale-105 transition-transform duration-500"
         />
 
-        <div className="absolute bottom-4 md:bottom-8 right-15 h-8 md:h-12 flex items-center gap-2 max-width-[50px] md:max-width-[280px] rounded-full border-2 border-zinc-500 bg-black/60 p-1 pl-1 md:pl-5">
+        <div className="absolute bottom-4 md:bottom-8 right-15 h-8 md:h-12 flex items-center justify-between gap-2 min-w-[180px] md:min-w-[240px] md:max-w-[280px] rounded-full border-2 border-zinc-500 bg-black/60 p-1 pl-1 md:pl-5">
           <span className="text-xs md:text-sm truncate">Camiseta do-while</span>
           <span className="flex h-full items-center justify-center rounded-full bg-violet-500 px-2 md:px-4 text-xs md:text-base font-semibold">
             R$129

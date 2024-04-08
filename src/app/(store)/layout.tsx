@@ -1,4 +1,4 @@
-import { CartProvider } from '@/components/card-context'
+import { CartProvider } from '@/contexts/card-context'
 import { Header } from '@/components/header'
 import { ReactNode } from 'react'
 
